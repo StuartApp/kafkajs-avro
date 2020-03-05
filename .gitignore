@@ -76,7 +76,6 @@ typings/
 .fusebox/
 
 # Builds
-build
 package-lock.json
 .DS_Store
 
